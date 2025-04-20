@@ -1,4 +1,4 @@
-LTIMindtree Annual Report Q&A Platform
+# LTIMindtree Annual Report Q&A Platform
 
 This project is a Retrieval-Augmented Generation (RAG)-based question-answering system designed for analyzing corporate annual reports such as those from LTIMindtree. It allows users to upload PDF reports, extract structured and unstructured data, build searchable vector indexes using embeddings, and interact with the data using natural language questions powered by an LLM.
 
