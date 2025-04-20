@@ -1,0 +1,19 @@
+# Core packages
+streamlit>=1.30.0
+openai>=1.14.3
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# PDF and table parsing
+PyMuPDF>=1.23.6        # for fitz
+tabula-py>=2.9.0
+pandas>=2.1.0
+
+# Chart rendering
+matplotlib>=3.8.0
+
+# Java dependency note for tabula-py
+# Make sure Java is installed and accessible in your PATH
+
+# Optional - used if you parse command line arguments or do file uploads
+python-magic>=0.4.27
