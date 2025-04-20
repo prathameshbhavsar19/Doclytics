@@ -8,6 +8,9 @@ Overview
 
 The solution consists of two main processes:
 
+![image](https://github.com/user-attachments/assets/5d7ba574-6082-453d-a572-5d6fc90d376c)
+
+
 Process 1: Data Upload and Preprocessing
 	•	Admin uploads one or more annual report PDFs.
 	•	The system extracts:
